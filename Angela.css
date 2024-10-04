@@ -1,0 +1,15 @@
+article p::first-line {
+    font-size: 120%;
+    font-weight: bold;
+}   
+.text1 {font-size: 16px;}
+.text {font-size: 19pt;}
+.text {color: rgb(26, 26, 108);}
+.text {font-family: Helvetica;}
+.text1 {font-family:Helvetica;}
+.text1{width: 270px;}
+.text {width: 540px;}
+
+
+
+
